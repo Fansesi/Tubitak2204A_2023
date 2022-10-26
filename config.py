@@ -1,5 +1,5 @@
 import tensorflow as tf
-from MidiTok import OctupleMono
+#from MidiTok import OctupleMono
 
 class Config():
   def __init__(self):
@@ -38,5 +38,5 @@ class Config():
                      'nb_tempos': 32,  # nb of tempo bins
                      'tempo_range': (40, 250)}  # (min, max)
 
-    self.tokenizer = OctupleMono(self.pitch_range, self.beat_res, self.nb_velocities, self.additional_tokens, mask=True)
+    #self.tokenizer = OctupleMono(self.pitch_range, self.beat_res, self.nb_velocities, self.additional_tokens, mask=True)
     
