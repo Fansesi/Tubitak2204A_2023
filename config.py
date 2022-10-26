@@ -1,5 +1,6 @@
 import tensorflow as tf
-#from MidiTok import OctupleMono
+$pip install MidiTok
+from MidiTok import OctupleMono
 
 class Config():
   def __init__(self):
