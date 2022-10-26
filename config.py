@@ -1,7 +1,4 @@
-
-#!pip install pretty_midi
 import tensorflow as tf
-!pip install MidiTok
 from MidiTok import OctupleMono
 
 class Config():
