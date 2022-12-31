@@ -1,0 +1,15 @@
+tensorflow
+pretty_midi
+midi_tok
+pathlib
+glob
+json
+pickle
+tqdm
+os
+time
+numpy
+shutil
+matplotlib
+fluidsynth
+seaborn
