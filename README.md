@@ -36,7 +36,7 @@
   * model.py
   * training.py
 
-Not: Veri seti ve checkpoint en kısa zamanda paylaşılacaktır. 
+Not: Veri seti ve modelin eğitimine ilişkin checkpoint'ler en kısa zamanda paylaşılacaktır. 
 
 ## EN
 
@@ -73,4 +73,4 @@ Repository for Tübitak's 2204A project competition in 2023.
   * model.py
   * training.py
 
-Note: Dataset and checkpoints will be published soon.
+Note: Dataset and trained checkpoints will be published soon.
