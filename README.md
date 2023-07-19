@@ -1,12 +1,14 @@
-# Tubitak 2204A - 2023
+# Tubitak 2204A - EUCYS - 2023
 
 ## TR
 
 2023 yılında düzenlenen Tübitak 2204A yarışmasının kod deposu. 
 
+Bu çalışma şu anda daha da geliştirme aşamasındadır. Geliştirmeler bitince yeni bir repository açılacaktır. Yeni repository açıldığı zaman linki paylaşılacaktır.
+```
 ### Dosya Düzeni
 
-* dataset
+*dataset
   * dataset_first
     * ...
   * dataset_REMI_augmented
@@ -35,13 +37,15 @@
   * generate.py
   * model.py
   * training.py
-
+```
 Not: Veri seti ve modelin eğitimine ilişkin checkpoint'ler en kısa zamanda paylaşılacaktır. 
 
 ## EN
 
 Repository for Tübitak's 2204A project competition in 2023.
 
+This work is being developed more. Another repository will be created once the development is finished. Link of the newly created repository will be published when it's ready.
+```
 ### Folder Structure
 * dataset
   * dataset_first
@@ -72,5 +76,6 @@ Repository for Tübitak's 2204A project competition in 2023.
   * generate.py
   * model.py
   * training.py
+```
 
 Note: Dataset and trained checkpoints will be published soon.
