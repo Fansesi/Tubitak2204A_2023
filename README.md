@@ -1,13 +1,12 @@
-# Tubitak 2204A - EUCYS - 2023
+# Tubitak 2204A 2023 - EUCYS 2023 - ISEF 2024
 [![Python 3.11](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/release/)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 [![GitHub license](https://img.shields.io/github/license/Natooz/MidiTok.svg)](https://github.com/Natooz/MidiTok/blob/main/LICENSE)
 
 ## EN
 
-Repository for Tübitak's 2204A project competition in 2023.
+Repository for the project entitled with *Synthesising Classical Guitar Pieces Using Transformers*.  
 
-This work is being developed more. Another repository will be created once the development is finished. Link of the newly created repository will be published when it's ready.
 
 ### Folder Structure
 
@@ -26,13 +25,14 @@ This work is being developed more. Another repository will be created once the d
 
 ```
 
+For the measurement of playability one may refer to [playability repo](https://github.com/Fansesi/guitar_playability/tree/main), created by the author. 
 **Note**: Dataset and trained checkpoints will be published soon.
 
 
 
 ## TR
 
-2023 yılında düzenlenen Tübitak 2204A yarışmasının kod deposu. 
+2023 yılında düzenlenen, Tübitak 2204A yarışmasında yazılım alanında birinci olan *Transformer Mimarisi Kullanarak Klasik Gitar Özelinde Sentetik Müzik Üretimi* adlı projenin kod reposu.
 
 ### Dosya Düzeni
 
@@ -48,5 +48,8 @@ This work is being developed more. Another repository will be created once the d
 │   ├── inference_GPT2.ipynb   # *Retrieval* prosedürleriyle inference.
 │   └── training_GPT2.ipynb    # GPT2 modelinin eğitimi.
 ```
+
+Üretilen verilerin çalınabilirliğini ölçen algıritmaya, yazarın açmış olduğu [playability repo](https://github.com/Fansesi/guitar_playability/tree/main) aracılığıyla ulaşılabilir.
+
 **Not**: Veri seti ve modelin eğitimine ilişkin checkpoint'ler en kısa zamanda paylaşılacaktır. 
 
