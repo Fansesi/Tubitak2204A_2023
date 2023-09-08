@@ -1,7 +1,7 @@
 # Tubitak 2204A 2023 - EUCYS 2023 - ISEF 2024
 [![Python 3.11](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/release/)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
-[![GitHub license](https://img.shields.io/github/license/Natooz/MidiTok.svg)](https://github.com/Natooz/MidiTok/blob/main/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/Fansesi/Tubitak2204A_2023)](https://github.com/Fansesi/Tubitak2204A_2023/blob/main/LICENSE)
 
 ## EN
 
