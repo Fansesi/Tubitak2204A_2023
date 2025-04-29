@@ -25,9 +25,7 @@ Repository for the project entitled with *Synthesising Classical Guitar Pieces U
 
 ```
 
-For the measurement of playability one may refer to [playability repo](https://github.com/Fansesi/guitar_playability/tree/main), created by the author. 
-**Note**: Dataset and trained checkpoints will be published soon.
-
+For the measurement of playability one may refer to [playability repo](https://github.com/Fansesi/guitar/tree/main), created by the author. 
 
 
 ## TR
@@ -49,7 +47,4 @@ For the measurement of playability one may refer to [playability repo](https://g
 │   └── training_GPT2.ipynb    # GPT2 modelinin eğitimi.
 ```
 
-Üretilen verilerin çalınabilirliğini ölçen algıritmaya, yazarın açmış olduğu [playability repo](https://github.com/Fansesi/guitar_playability/tree/main) aracılığıyla ulaşılabilir.
-
-**Not**: Veri seti ve modelin eğitimine ilişkin checkpoint'ler en kısa zamanda paylaşılacaktır. 
-
+Üretilen verilerin çalınabilirliğini ölçen algıritmaya, yazarın açmış olduğu [playability repo](https://github.com/Fansesi/guitar/tree/main) aracılığıyla ulaşılabilir.
